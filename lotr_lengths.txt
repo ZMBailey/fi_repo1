@@ -1,10 +1,13 @@
 Lord of the Rings movie lengths:
 
-Fellowship of the Ring: 178 minutes,
-No significant difference in the extended edition
+Fellowship of the Ring: 178 min
+FotR Extended: 208 min
+Added: 30 min
 
-Two Towers: 180
-TT Extended: 235
+Two Towers: 180 min
+TT Extended: 235 min
+Added: 55 min
 
-Return of the King: 200
-RotK Extended: 263 
+Return of the King: 200 min
+RotK Extended: 263 min
+Added: 63 min
